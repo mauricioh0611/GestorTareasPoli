@@ -20,20 +20,20 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Nombre: Juan Ejemplo"
+            android:text="Nombre: Poli Edu"
             android:textSize="18sp"
             android:paddingTop="16dp"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Estudios: Ingeniería en Sistemas"
+            android:text="Estudios: Ingeniería de Software"
             android:textSize="16sp"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Experiencia: 5 años en desarrollo Android"
+            android:text="Experiencia: 4 años en desarrollo Android"
             android:textSize="16sp"/>
     </LinearLayout>
 </ScrollView>

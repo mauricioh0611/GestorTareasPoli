@@ -25,7 +25,7 @@ public class VideoFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_video, container, false);
         VideoView videoView = view.findViewById(R.id.video_view);
 
-        // URL de prueba de un video en línea (puedes reemplazarlo con un video local si prefieres)
+        // URL de prueba de un video en línea (se puede reemplazar con un video local)
         String videoUrl = "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4";
         Uri uri = Uri.parse(videoUrl);
         videoView.setVideoURI(uri);
